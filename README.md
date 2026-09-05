@@ -12,24 +12,43 @@ This project analyzes seasonal agricultural performance using a dataset of 4000 
 
 
 ├── dataset/
+
 │   ├── seasonal_agriculture_performance_dataset.csv   # Original dataset
+
 │   └── cleaned_seasonal_agriculture_data.csv          # Cleaned dataset
+
 ├── notebook/
+
 │   └── VOIS_Major_Project_Seasonal_Agriculture_Analysis.ipynb
+
 ├── graphs/
+
 │   ├── 01_yield_boxplot.png
+
 │   ├── 02_avg_profit_by_season.png
+
 │   ├── 03_rainfall_temperature.png
+
 │   ├── 04_water_usage_efficiency.png
+
 │   ├── 05_fertilizer_pesticide_disease.png
+
 │   ├── 06_crop_yield_heatmap.png
+
 │   ├── 07_correlation_heatmap.png
+
 │   ├── 08_irrigation_method_yield.png
+
 │   └── 09_top_states_profit.png
+
 ├── presentation/
+
 │   └── VOIS_Major_Project_PPT_Submission.pptx
+
 ├── docs/
+
 │   └── Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf
+
 └── README.md
 
 
