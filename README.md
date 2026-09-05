@@ -1,4 +1,11 @@
 # Seasonal-Agriculture-Performance-Analysis
+## 🎓 About
+This project was completed as part of the **VOIS and Vodafone Idea Foundation's 
+CSR Program — "VOIS for Tech" — 4 Weeks Virtual Internship on Data Analytics**. 
+It represents the Major Project submission for the internship, demonstrating 
+practical application of data analytics and visualization skills learned during 
+the program.
+
 VOIS AICTE Major Project - Seasonal Agriculture Performance Analysis
 Seasonal Agriculture Performance Analysis
 VOIS AICTE Major Project | Batch 1, 2026-2027
