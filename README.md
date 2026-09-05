@@ -2,12 +2,15 @@
 VOIS AICTE Major Project - Seasonal Agriculture Performance Analysis
 Seasonal Agriculture Performance Analysis
 VOIS AICTE Major Project | Batch 1, 2026-2027
+
 👤 Submitted By
 Name: Gajanan Harinarayan Raje
 College: MGM's College of Computer Science & IT, Nanded
 Course: BCA (5th Semester), SRTMU University
+
 📌 Project Overview
 This project analyzes seasonal agricultural performance using a dataset of 4000 farm records spread across 8 states, 8 crops, and 3 farming seasons (Kharif, Rabi, Zaid). The goal is to identify meaningful patterns, trends, and relationships in agricultural performance across seasons using data analytics.
+
 📂 Repository Structure
 
 
