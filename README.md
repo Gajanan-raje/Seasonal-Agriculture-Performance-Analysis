@@ -39,16 +39,19 @@ Compare agricultural performance (yield, profit, resource usage) across seasons
 Identify seasonal patterns, trends, and relationships
 Apply statistical testing to validate findings
 Provide data-driven insights and recommendations
+
 🛠️ Tools & Technologies
 Language: Python
 Platform: Google Colab (Jupyter Notebook)
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, SciPy
+
 🔍 Methodology
 Data Cleaning — Handled missing values (Rainfall, Soil Moisture, Yield) using season-wise median imputation; checked for duplicates
 Exploratory Data Analysis (EDA) — Explored dataset structure and summary statistics
 Seasonal Comparison — Compared yield, profit, water usage, fertilizer/pesticide use, and disease risk across seasons
 Visualization — Created 9 visualizations (boxplots, violin plots, bar charts, heatmaps)
 Statistical Testing — Applied ANOVA to test significance of yield differences across seasons
+
 📊 Key Findings
 Season
 Avg Yield (t/ha)
@@ -70,6 +73,7 @@ Kharif season shows the highest yield and profit
 Zaid season runs at an average loss despite the highest water usage
 Sugarcane is the top-yielding crop across all seasons
 ANOVA test (F = 1.554, p = 0.212) shows the seasonal yield difference is not statistically significant
+
 💡 Recommendations
 Re-evaluate cost structure and crop choice for Zaid season farming
 Review fertilizer/pesticide application efficiency, especially in low-yield seasons
