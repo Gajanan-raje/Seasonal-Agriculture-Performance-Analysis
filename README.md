@@ -17,8 +17,11 @@ This project analyzes seasonal agricultural performance using a dataset of 4000 
 
 
 ├── dataset/
+
 │   ├── seasonal_agriculture_performance_dataset.csv   # Original dataset
+
 │   └── cleaned_seasonal_agriculture_data.csv          # Cleaned dataset
+
 ├── notebook/
 
 │   └── VOIS_Major_Project_Seasonal_Agriculture_Analysis.ipynb
